@@ -1,0 +1,4 @@
+{
+	"id": "blog",
+	"volume": "/var/lib/ghost"
+}
