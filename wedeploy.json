@@ -1,4 +1,8 @@
 {
 	"id": "blog",
-	"volume": "/var/lib/ghost/content"
+  "image": "ghost:1.18",
+	"volume": "/var/lib/ghost/content",
+  "env": {
+    "url": "https://blog-projectId.wedeploy.io"
+  }
 }
