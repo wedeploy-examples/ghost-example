@@ -1,6 +1,6 @@
 # Ghost [![Badge](https://img.shields.io/badge/built%20with-wedeploy-00d46a.svg?style=flat)](http://wedeploy.com)
 
-A demo of [Ghost](https://hub.docker.com/_/ghost/) on [WeDeploy](https://wedeploy.com/).
+An example of [Ghost](https://hub.docker.com/_/ghost/) on [WeDeploy](https://wedeploy.com/).
 
 ## Instructions
 
