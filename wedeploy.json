@@ -6,5 +6,8 @@
   },
   "volumes": {
     "content": "/var/lib/ghost/content"
+  },
+  "healthCheck": {
+    "url": "localhost:2368"
   }
 }
